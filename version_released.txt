@@ -1,0 +1,6 @@
+1.0
+
+RELEASE HISTORY:
+
+v1.0
+	- First commit
