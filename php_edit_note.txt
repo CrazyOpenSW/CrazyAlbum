@@ -1,2 +1,0 @@
-# We need to search for the extension=exif line and uncomment it.
-# Since I'm editing the whole file or using a tool, I will use a PowerShell command to uncomment it.
